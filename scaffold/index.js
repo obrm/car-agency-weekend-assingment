@@ -97,7 +97,7 @@ const CustomerManager = {
 };
 
 const CarManager = {
-  cars: [],
+  agencies: [],
   
   // Retrieve all cars available for purchase.
   // @return {object[]} - Array of cars
